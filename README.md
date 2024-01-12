@@ -5,7 +5,9 @@ The UIT-ViCoQA dataset consists of 10,000 questions with answers over 2,000 conv
 
 # Data inquiry 
 The dataset is available at this [website](http://nlp.uit.edu.vn/datasets/)  
-Please contact the author as shown in below website for the dataset   
+Please contact the following authors for dataset: 
+  + Mr. Son Luu (sonlt@uit.edu.vn)  
+  + Mr. Kiet Nguyen (kietnv@uit.edu.vn)   
 
 # Baseline codes
 The baseline codes implemented for the dataset including DrQA, SDNet, FlowQA and GraphFlow    
